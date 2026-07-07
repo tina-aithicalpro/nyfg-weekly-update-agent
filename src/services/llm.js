@@ -47,6 +47,7 @@ Rules, all mandatory:
 - Speak as "our team," never naming individuals.
   - Header line: "DRAFT - route to the approver for approval, then a human sends." Do not name the approver.
 - Do not offer to send it. Do not send it.
+- Plain text only. Do not use markdown formatting anywhere (no asterisks, no bold, no italics, no bullet symbols, no headers). Write section titles as plain text followed by a colon, e.g. "Completed this week:". Use a plain hyphen and space for list items.
 
 Task data (already stripped of internal fields):
 ${JSON.stringify(strippedTasks, null, 2)}
