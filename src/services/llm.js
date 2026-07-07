@@ -45,7 +45,7 @@ Rules, all mandatory:
 - No em dashes. Use a spaced hyphen if needed.
 - Do not use: streamline, leverage, unlock, game-changer, cutting-edge, seamless, robust, synergy, empower, delve.
 - Speak as "our team," never naming individuals.
-- Header line: "DRAFT - route to ${approverName} for approval, then a human sends."
+  - Header line: "DRAFT - route to the approver for approval, then a human sends." Do not name the approver.
 - Do not offer to send it. Do not send it.
 
 Task data (already stripped of internal fields):
